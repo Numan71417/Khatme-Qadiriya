@@ -140,6 +140,17 @@ button:focus{
   font-size: 1.2rem;
 }
 
+.tasbeeh-btn {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  background-color: #213555;
+  /* width: 500px; */
+  /* margin: auto; */
+}
+
+
 .tasbeeh-btn button{
   width: 320px;
   height: 200px;
@@ -149,10 +160,24 @@ button:focus{
   user-select: none;
 
 }
-.tasbeeh-btn button:focus{
+
+.tasbeeh-btn .btn{
+  width: 320px;
+  color: white;
+  height: 200px;
+  font-size: 2.5rem;
+  -webkit-user-select: none; 
+  -ms-user-select: none; 
+  user-select: none;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  align-content: center;
   
-  background-color: var(--btn);
+
 }
+
 
 .reset button{
   

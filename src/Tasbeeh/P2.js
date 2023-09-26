@@ -36,9 +36,9 @@ const P2 = ({num}) => {
     </div>
 
     <div className="tasbeeh-btn" onClick={handleClick}>
-        <button >
+        <div className='btn'>
             {count} /  {Math.floor(num)}
-        </button>
+        </div>
     </div>
 
     <div className="reset">

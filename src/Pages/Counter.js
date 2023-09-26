@@ -19,9 +19,9 @@ const Counter = () => {
         <Header navl='' navr='' head='Tasbeeh Counter'/>
 
       <div className="tasbeeh-btn" onClick={handleClick}>
-        <button style={{height:'550px',width:'100vw'}}>
+        <div className='btn' style={{height:'550px',width:'100vw',backgroundColor:'#213555'}} >
             {count} 
-        </button>
+        </div>
     </div>
     <div className="reset">
         <button onClick={handleReset}>
