@@ -1,17 +1,21 @@
-import React from 'react'
 import data from '../Data'
+import yaseenAudio from '../assets/audio/yaseen.m4a'
+import Header from '../components/Header'
 
 const Yaseen = () => {
+   
+
   return (
     <div className='yaseen-cont'>
-        <div className="header">
-            {'<-'}
-        </div>
 
-        <h1>سورة يٰسٓ </h1>
+        <Header audio={yaseenAudio} head={'سورة يٰسٓ '}/>
+
+                    <br />
         <h3>اَعُوْذُ بِاللّٰہِ مِنَ الشَّیْطٰنِ الرَّجِیْمِ</h3>
+        <hr />
         <h3>بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ</h3>
-    
+        <hr />
+                <br />
         <p>
         {data[0].yaseen1}
         {data[0].yaseen2}
