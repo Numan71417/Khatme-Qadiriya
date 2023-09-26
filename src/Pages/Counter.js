@@ -19,7 +19,7 @@ const Counter = () => {
         <Header navl='' navr='' head='Tasbeeh Counter'/>
 
       <div className="tasbeeh-btn" onClick={handleClick}>
-        <button style={{height:'600px',width:'100vw'}}>
+        <button style={{height:'550px',width:'100vw'}}>
             {count} 
         </button>
     </div>
