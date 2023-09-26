@@ -17,7 +17,7 @@ const P11 = () => {
     } 
 
   return (
-    <div className='P11 '>
+    <div className='P11 tas'>
         <Header navr='p12' navl='p10' head='11' />
         <h3>111 times</h3>
         <h3>اَعُوْذُ بِاللّٰہِ مِنَ الشَّیْطٰنِ الرَّجِیْمِ</h3>

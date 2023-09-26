@@ -8,7 +8,7 @@ const Yaseen = () => {
   return (
     <div className='yaseen-cont'>
 
-        <Header audio={yaseenAudio} head={'سورة يٰسٓ '}/>
+        <Header audio={yaseenAudio} head={'سورة يٰسٓ 20 '} navl='p19' navr='qaseeda'/>
 
                     <br />
         <h3>اَعُوْذُ بِاللّٰہِ مِنَ الشَّیْطٰنِ الرَّجِیْمِ</h3>

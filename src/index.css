@@ -55,6 +55,7 @@ code {
   width: 98%;
   height: 100vh;
   padding: 5px;
+
   background-image: url("https://img.freepik.com/premium-vector/islamic-pattern-white-background_691635-5.jpg");
 }
 
@@ -62,6 +63,10 @@ code {
   width: 200px;
   padding: 15px;
   margin-bottom: 15px;
+}
+
+.btn-d{
+  margin-bottom: 40px;
 }
 
  button{
@@ -76,6 +81,11 @@ code {
 
 button:focus{
   background-color: var(--bg);
+}
+
+.tas{
+
+  padding: 5px;
 }
 
 .yaseen-cont{
@@ -132,7 +142,7 @@ button:focus{
 
 .tasbeeh-btn button{
   width: 320px;
-  height: 220px;
+  height: 200px;
   font-size: 2.5rem;
   -webkit-user-select: none; 
   -ms-user-select: none; 
@@ -149,4 +159,75 @@ button:focus{
   margin-top: 5px;
   width: 320px;
   height: 50px;
+}
+
+.qa img{
+  width: 100vw;
+}
+
+.qe{
+  padding: 10px;
+}
+.tinput{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.tcount {
+  background: wheat;
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+
+ 
+}
+
+.tcount input{
+  padding-left: 10px;
+  width: 30px;
+  border: none;
+  height: 30px;
+  background-color: #c3f1ce;
+}
+.tcount label{
+  color:white;
+  width: 200px;
+  font-weight: 600;
+  background:#213555;
+  padding: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  font-size: 1.2em;
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
+input:-ms-input-placeholder{
+  text-align: center;
+}
+
+.tcount button{
+  
+  width: 30px;
+  height: 30px;
+}
+
+.plus{
+  margin-right:5px ;
+}
+.minus{
+  margin-left: 5px;
+}
+
+.add{
+  /* margin-top: 5px; */
+  width: 100vw;
+  position: absolute;
+  bottom: 1px;
+  display: flex;
+  justify-content: center;
+  
+  
+
 }

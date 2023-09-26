@@ -11,52 +11,52 @@ const data = [
         e3:'Alam Nashrah Laka Sadrak Wawa Dwa’naa Anka Wizrak Allazi Anqa Dwazahraka Warafa’na Laka Zikrak Fa Inna M’al Usri Yusra Inna M’al Usri Yusra Faiza Faraghta Fanswab Wa Ila Rabbika Farghab ',
 
         a4:"قُلْ هُوَ اللهُ أَحَدٌ اَللهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا اَحَدٌ ",
-        e4:'',
+        e4:'Qul Huwallahu Ahad. Allahuhus Samad. Lam Yalid. Walam Yulad. Walam Yakullahu Kufuwan Ahad.',
 
         a5:" يَا بَاقِي اَنْتَ الْبَاقِى ",
-        e5:'',
+        e5:'Ya Baaqi Antal Baaqi',
 
         a6:" يَا شَافِي اَنْتَ الشَّافِي ",
-        e6:'',
+        e6:'Ya Shaafi Antal Shaafi',
 
         a7:" يَا كَافِي أَنْتَ الْكَافِي  ",
-        e7:'',
+        e7:'Ya Kaafi Antal Kaafi ',
 
         a8:" يَا رَسُولَ اللَّهِ انْظُرُ حَالَنَا يَا حَبِيبَ اللَّهِ إِسْمَعُ قَالَنَا إِنَّنِي فِي بَحْرِهَةٍ مُغْرَقَ خُذْيَدِى سَهِّلْ لَنَا أَشْكَالَنَا ",
-        e8:'',
+        e8:'Ya Rasullulahi Unzur Halana Ya Habiballahi Isma Qalana Innani Fi Bahri Haamim Mugh Raqun Khuz Yadi Sahhil Lana Ishkalana',
         
         a9:" يَا حَبِيبَ الْإِلَهِ خُذْ بِيَدِى مَالِعَجْزِئُ سِوَاكَ مُسْتَنَدِى ",
-        e9:'',
+        e9:'Ya Habeebal Ilaahi Khuz Biyadi Maaliajj zi Siwaaka Mustanadi',
 
         a10:"فَسَهَّلْ يَا إِلهِي كُلَّ صَعْبٍ بِحُرُمَةِ سَيِّدِ الْأَبْرَارِ سَهْلُ ",
-        e10:'',
+        e10:'Fasah’hil Ya Ilaahi Kulla Sa’bin Bihurmati Sayyidil Abraari Sah’hil',
 
         a11:"يَا صِدِّيقُ يَاعُمَرُ يَا عُثْمَانُ يَا حَيْدَر دَفَعُ شَرْكُنُ خَيْر أَوَرُ يَا شَبِيْرِ يَا شَبَّرُ  ",
-        e11:'',
+        e11:'Ya Siddique Ya Umar Ya Usmaan Ya Haidar Da Fa Sharkun Khair Awar Ya Shabbir Ya Shabbar',
 
         a12:" يَا حَضْرَتْ سُلْطَانُ شَيْخ سَيَّدَ شَاهُ عَبْدُ الْقَادِرُ جَيْلَانِي شَيْئًا لِلَّهِ الْمَدَدْ ",
-        e12:'',
+        e12:'Ya Hadrat Sultaan Shaikh Sayyid Shah Abdal Qaadir Jilani Shay’an Lillah Al Madad',
 
         a13:" مَا هَمَه مُحْتَاجُ تُو حَاجَتْ رَوَا الْمَدَدْ يَا غَوُثِ أَعْظَمُ سَيَّدَا ",
-        e13:'',
+        e13:'Ma Hama Muhtaaj Too Haajat Rawa Al Madad Ya Ghause A’zam Sayyida',
 
         a14:"مُشْكِلاتِ ہے عَدَدْ دَارِيم مَا الْمَدَدْ يَا غَوثِ أَعْظَمُ بِيرِ مَا ",
-        e14:'',
+        e14:'Mushkilaate Be Adad Daarem Ma Al Madad Ya Ghause A’zam Peere Ma',
 
         a15:" يَا حَضْرَتْ شَيْخ مُحِيُّ الدِّينِ مُشْكِلُ كُشَا بِالْخَيْرِ ",
-        e15:'',
+        e15:'Ya Hadrat Shaikh Muhayyuddin Mushkil Kushaa Bil Khair',
 
         a16:" إِمْدَادُ كُنْ اِمْدَادُ كُنْ أَنْ بَنْدِ غَمُ آزادُكُنُ دَردِین و دُنْيَا شَادُكُنْ يَا غَوْتِ أَعْظَمُ دَسْتَكَيْر ",
-        e16:'',
+        e16:'Imdaad Kun Imdaad Kun Az bande Gham Azaad Kun Dardeeno Dunya Shaad Kun Ya Ghause A’zam Dastageer',
 
         a17:"يَا حَضْرَتْ غَوْثُ اَغِلْنَا بِإِذْنِ اللَّهِ تَعَالَى ",
-        e17:'',
+        e17:'Ya Hadrat Ghaus Aghisna Bi’iznillahi Ta’ala',
 
         a18:" خُذْيَدِى يَا شَاهِ حِيْلَانُ خُذْ يَدِى شَيْئًا لِلَّهِ أَنْتَ نُورٌ أَحْمَدِي",
-        e18:'',
+        e18:'Khuz Yadi Ya Shaahe Jeelan Khuz Yadi Shay An Lillah Anta Noorun Ahmadi',
 
         a19:"طفَيْل حَضْرَتْ دَسْتَكِيْر دُشمَنُ هو وے زیر",
-        e19:'',
+        e19:'Tufaile Hadrat Dastageer Dushman Huwe Zer',
 
         yaseen1:
         " یٰسٓ ۚ۱  وَ الْقُرْاٰنِ الْحَکِیۡمِ ۙ ۲  اِنَّکَ لَمِنَ الْمُرْسَلِیۡنَ ۙ ۳  عَلٰی صِرٰطٍ مُّسْتَقِیۡمٍ ؕ ۴  تَنۡزِیۡلَ الْعَزِیۡزِ الرَّحِیۡمِ۵  لِتُنۡذِرَ قَوْمًا مَّاۤ اُنۡذِرَ اٰبَآؤُہُمْ فَہُمْ غٰفِلُوۡنَ  ۶  لَقَدْ حَقَّ الْقَوْلُ عَلٰۤی اَکْثَرِہِمْ فَہُمْ لَا یُؤْمِنُوۡنَ۷  اِنَّا جَعَلْنَا فِیۡۤ اَعْنٰقِہِمْ اَغْلٰلًا فَہِیَ اِلَی الۡاَذْقَانِ فَہُمۡ مُّقْمَحُوۡنَ  ۸  وَ جَعَلْنَا مِنۡۢ بَیۡنِ اَیۡدِیۡہِمْ سَدًّا وَّ مِنْ خَلْفِہِمْ سَدًّا فَاَغْشَیۡنٰہُمْ فَہُمْ لَا یُبْصِرُوۡنَ  ۹  وَ سَوَآءٌ عَلَیۡہِمْ ءَاَنۡذَرْتَہُمْ اَمْ لَمْ تُنۡذِرْہُمْ لَا یُؤْمِنُوۡنَ۱۰  اِنَّمَا تُنۡذِرُ مَنِ اتَّبَعَ الذِّکْرَ وَ خَشِیَ الرَّحْمٰنَ بِالْغَیۡبِ ۚ فَبَشِّرْہُ بِمَغْفِرَۃٍ وَّ اَجْرٍ کَرِیۡمٍ۱۱  اِنَّا نَحْنُ نُحْیِ الْمَوْتٰی وَ نَکْتُبُ مَا قَدَّمُوۡا وَ اٰثَارَہُمْ ؕ؎ وَکُلَّ شَیۡءٍ اَحْصَیۡنٰہُ فِیۡۤ اِمَامٍ مُّبِیۡنٍ  ۱۲   وَاضْرِبْ لَہُمۡ مَّثَلًا اَصْحٰبَ الْقَرْیَۃِ ۘ اِذْ جَآءَہَا الْمُرْسَلُوۡنَ  ۚ۱۳  اِذْ اَرْسَلْنَاۤ اِلَیۡہِمُ اثْنَیۡنِ فَکَذَّبُوۡہُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوۡۤا اِنَّاۤ اِلَیۡکُمۡ مُّرْسَلُوۡنَ ",
@@ -68,14 +68,16 @@ const data = [
         yaseen4 : "۴۶  وَ اِذَا قِیۡلَ لَہُمْ اَنۡفِقُوۡا مِمَّا رَزَقَکُمُ اللہُ ۙ قَالَ الَّذِیۡنَ کَفَرُوۡا لِلَّذِیۡنَ اٰمَنُوۡۤا اَنُطْعِمُ مَنۡ لَّوْ یَشَآءُ اللہُ اَطْعَمَہٗۤ ٭ۖ اِنْ اَنۡتُمْ اِلَّا فِیۡ ضَلٰلٍ مُّبِیۡنٍ  ۴۷  وَ یَقُوۡلُوۡنَ مَتٰی ہٰذَا الْوَعْدُ اِنۡ کُنۡتُمْ صٰدِقِیۡنَ  ۴۸  مَا یَنۡظُرُوۡنَ اِلَّا صَیۡحَۃً وّٰحِدَۃً تَاۡخُذُہُمْ وَ ہُمْ یَخِصِّمُوۡنَ  ۴۹  فَلَا یَسْتَطِیۡعُوۡنَ تَوْصِیَۃً وَّ لَاۤ اِلٰۤی اَہۡلِہِمْ یَرْجِعُوۡنَ۵۰  وَ نُفِخَ فِی الصُّوۡرِ فَاِذَا ہُمۡ مِّنَ الْاَجْدَاثِ اِلٰی رَبِّہِمْ یَنۡسِلُوۡنَ۵۱  قَالُوۡا یٰوَیۡلَنَا مَنۡۢ بَعَثَنَا مِنۡ مَّرْقَدِنَا ٜۘؐ ہٰذَا مَا وَعَدَ الرَّحْمٰنُ وَ صَدَقَ الْمُرْسَلُوۡنَ  ۵۲  اِنۡ کَانَتْ اِلَّا صَیۡحَۃً وّٰحِدَۃً فَاِذَا ہُمْ جَمِیۡعٌ لَّدَیۡنَا مُحْضَرُوۡنَ  ۵۳  فَالْیَوْمَ لَا تُظْلَمُ نَفْسٌ شَیْـًٔا وَّ لَا تُجْزَوْنَ اِلَّا مَا کُنۡتُمْ تَعْمَلُوۡنَ  ۵۴   اِنَّ اَصْحٰبَ الْجَنَّۃِ الْیَوْمَ فِیۡ شُغُلٍ فٰکِہُوۡنَ  ۚ۵۵  ہُمْ وَ اَزْوٰجُہُمْ فِیۡ ظِلٰلٍ عَلَی الْاَرَآئِکِ مُتَّکِــُٔوۡنَ  ۵۶  لَہُمْ فِیۡہَا فٰکِہَۃٌ وَّلَہُمْ مَّا یَدَّعُوۡنَ  ۚۖ۵۷  سَلٰمٌ ۟ قَوْلًا مِّنۡ رَّبٍّ رَّحِیۡمٍ  ۵۸  وَامْتٰزُوا الْیَوْمَ اَیُّہَا الْمُجْرِمُوۡنَ  ۵۹  اَلَمْ اَعْہَدْ اِلَیۡکُمْ یٰبَنِیۡۤ اٰدَمَ اَنۡ لَّا تَعْبُدُوا الشَّیۡطٰنَ ۚ اِنَّہٗ لَکُمْ عَدُوٌّ مُّبِیۡنٌ  ۙ۶۰  وَّ اَنِ اعْبُدُوۡنِیۡ ؕؔ ہٰذَا صِرٰطٌ مُّسْتَقِیۡمٌ  ۶۱  وَلَقَدۡ اَضَلَّ مِنۡکُمۡ جِبِلًّا کَثِیۡرًا ؕ اَفَلَمۡ تَکُوۡنُوۡا تَعۡقِلُوۡنَ  ۶۲  ہٰذِہٖ جَہَنَّمُ الَّتِیۡ کُنۡتُمۡ تُوۡعَدُوۡنَ  ۶۳  اِصْلَوْہَا الْیَوْمَ بِمَا کُنۡتُمْ تَکْفُرُوۡنَ  ۶۴  اَلْیَوْمَ نَخْتِمُ عَلٰۤی اَفْوٰہِہِمْ وَ تُکَلِّمُنَاۤ اَیۡدِیۡہِمْ وَ تَشْہَدُ اَرْجُلُہُمْ بِمَا کَانُوۡا یَکْسِبُوۡنَ  ۶۵  وَ لَوْ نَشَآءُ لَطَمَسْنَا عَلٰۤی اَعْیُنِہِمْ فَاسْتَبَقُوا الصِّرٰطَ فَاَنّٰی یُبْصِرُوۡنَ  ۶۶  وَلَوْ نَشَآءُ لَمَسَخْنٰہُمْ عَلٰی مَکَانَتِہِمْ فَمَا اسْتَطٰعُوۡا مُضِیًّا وَّلَا یَرْجِعُوۡنَ  ",
 
         yaseen5:" وَمَنْ نُّعَمِّرْہُ نُنَکِّسْہُ فِی الْخَلْقِ ؕ اَفَلَا یَعْقِلُوۡنَ  ۶۸  وَمَا عَلَّمْنٰہُ الشِّعْرَ وَمَا یَنۡۢبَغِیۡ لَہٗ ؕ اِنْ ہُوَ اِلَّا ذِکْرٌ وَّ قُرْاٰنٌ مُّبِیۡنٌ  ۙ۶۹  لِّیُنۡذِرَ مَنۡ کَانَ حَیًّا وَّ یَحِقَّ الْقَوْلُ عَلَی الْکٰفِرِیۡنَ۷۰   اَوَلَمْ یَرَوْا اَنَّا خَلَقْنَا لَہُمْ مِّمَّا عَمِلَتْ اَیۡدِیۡنَاۤ اَنْعٰمًا فَہُمْ لَہَا مٰلِکُوۡنَ۷۱  وَ ذَلَّلْنٰہَا لَہُمْ فَمِنْہَا رَکُوۡبُہُمْ وَ مِنْہَا یَاۡکُلُوۡنَ  ۷۲  وَ لَہُمْ فِیۡہَا مَنٰفِعُ وَ مَشَارِبُ ؕ اَفَلَا یَشْکُرُوۡنَ  ۷۳  وَ اتَّخَذُوۡا مِنۡ دُوۡنِ اللہِ اٰلِہَۃً لَّعَلَّہُمْ یُنۡصَرُوۡنَ  ؕ۷۴  لَا یَسْتَطِیۡعُوۡنَ نَصْرَہُمْ ۙ وَہُمْ لَہُمْ جُنۡدٌ مُّحْضَرُوۡنَ۷۵  فَلَا یَحْزُنۡکَ قَوْلُہُمْ ۘ اِنَّا نَعْلَمُ مَا یُسِرُّوۡنَ وَمَا یُعْلِنُوۡنَ  ۷۶  اَوَلَمْ یَرَ الْاِنۡسٰنُ اَنَّا خَلَقْنٰہُ مِنۡ نُّطْفَۃٍ فَاِذَا ہُوَ خَصِیۡمٌ مُّبِیۡنٌ۷۷  وَ ضَرَبَ لَنَا مَثَلًا وَّنَسِیَ خَلْقَہٗ ؕ قَالَ مَنْ یُّحْیِ الْعِظٰمَ وَ ہِیَ رَمِیۡمٌ  ۷۸  قُلْ یُحْیِیۡہَا الَّذِیۡۤ اَنۡشَاَہَاۤ اَوَّلَ مَرَّۃٍ ؕ وَ ہُوَ بِکُلِّ خَلْقٍ عَلِیۡمُۨ   ۙ۷۹  الَّذِیۡ جَعَلَ لَکُمۡ مِّنَ الشَّجَرِ الْاَخْضَرِ نَارًا فَاِذَاۤ اَنۡتُمۡ مِّنْہُ تُوۡقِدُوۡنَ  ۸۰  اَوَ لَیۡسَ الَّذِیۡ خَلَقَ السَّمٰوٰتِ وَ الْاَرْضَ بِقٰدِرٍ عَلٰۤی اَنْ یَّخْلُقَ مِثْلَہُمۡ ؕؔ بَلٰی  وَ ہُوَ الْخَلّٰقُ الْعَلِیۡمُ  ۸۱  اِنَّمَاۤ اَمْرُہٗۤ اِذَاۤ اَرَادَ شَیْـًٔا اَنْ یَّقُوۡلَ لَہٗ کُنْ فَیَکُوۡنُ  ۸۲  فَسُبْحٰنَ الَّذِیۡ بِیَدِہٖ مَلَکُوۡتُ کُلِّ شَیۡءٍ وَّ اِلَیۡہِ تُرْجَعُوۡنَ  ",
+    
+        
+
+        Qseedae1:'Saqaanil Hubbu Kasaatil Wisaali Faqultu Likhamrati Nahwi Ta Aali.. Sa’at Wamashat Linahwi Fi Ku’oosin..  Fahimtu Bisukrati Baynal Mawaali..  Faqultu Lisaa’iril Aqtaabi Lummu..  Bihaali Wad Khulu Antum Rijaali..  Wahummu Washrabu Antum Junudi..   Fasaaqil Qawmi Bil Waafi Malaali..  Sharibtum Fudlati Mim Ba’di Sukri..  Wala Niltum Uloowi Wat Tisaali.. Makaamukumul U’la Jam’aw Wala Kin..  Maqaami Fawqakum Ma Zaa La Aa’li.. Ana Fi Hazratit Taqreebi Wahdi..  Yusarifuni Wahasbi Zul JalaaliAnal Baaziyu Ashhabu Kulli Shaykin Waman Zaa Fir Rijaali U’tiya MisaaliKasaani Khilatan Bitiraazi Azmin Wa Tawwajani Bitijaanil KamaaliWa’atla Ani Alaa Sirrin Qadeemin Waqalladani Wa A’taani Su’aaliWa Walaani Alal Aqtaabi Jam’an Fahukmi Naafizin Fi Kulli HaaliWalow Alqaytu Sirri Fi Bihaarin Lasaaral Kullu Ghawran Fis ZawaaliWalow Alqaytu Sirri Fi Jibaalin Ladukkat Wakhtafat Baynar RimaaliWalow Alqaytu Sirri Fawqa Naarin Lakhamidat Wantafat Min Sirri HaaliWalow Alqaytu Sirri Fawqa Maytin Laqaama Biqudratil Mawla Ta’aaliWamaa Minha Shuhurun Aw Thuhuurun Tamurru Watanqadi Illa AtaaliWatukhbiruni Bimaa Ya’ti Wa Yajri Watu’limuni Fa’aqsir An JidaaliMureedi Him Watib Washtah Waganni Wa’if’al Ma Tashaa’u Falismu AaliMureedi La Takhaf Allahu Rabbi Ataani Rifatan Niltul ManaaliTubu Li Fis Samaa’i Walardi Tuqqat Washaa’oosus Sa’aadati Qad BadaaliBilaadul Laahi Mulki Tahta Hukmi Wa Waqti Qabla Qalbi Qad SafaaliNazartu Ilaa Bilaadil Laahi Jam’an Kakhardalatin Alaa Hukmit TisaaliDarastul Ilma Hatta Sirtu Qutban Waniltus Sa’da Mim Mawlal Mawaali',
+
+        Qseedae2 : 'Faman Fi Awliyaa’il Laahi Misli Waman Fil Ilmi Wat Tasrifi HaaliRijaali Fi Hawa Jirihim Siyaamun Wafi Zulamil Layaali Kal La AaliWakullu Waliyin Lahu Qadamun Wa Inni Alaa Qadamin Nabbiyi Badril KamaaliMureedi La Takhaf Wa’ Shin Fa Inni Azoomun Qaatilun Indal QitaaliAnal Jeeliyu Muhayudeeni Laqaabi Wa’alaami Alaa Ra’sil JibaaliAnal Hasaniyu Wal Mukhda’ Maqaami Wa’aqdaami Alaa Unuqir RijaaliWa Abdul Qaadiril Mashooru Ismi Wa Jaddi Saahibul Aynil Kamaali',
     },
     
-    {
-        backArrow: ` <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/></svg> `,
-
-        audioOn: ` 
-        <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M560-131v-82q90-26 145-100t55-168q0-94-55-168T560-749v-82q124 28 202 125.5T840-481q0 127-78 224.5T560-131ZM120-360v-240h160l200-200v640L280-360H120Zm440 40v-322q47 22 73.5 66t26.5 96q0 51-26.5 94.5T560-320ZM400-606l-86 86H200v80h114l86 86v-252ZM300-480Z"/></svg>`,
-    }
+  
+    
 ]
 
 export default data
