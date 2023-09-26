@@ -75,9 +75,9 @@ function App() {
             
               <label >No of peoples //extra:{num.d}</label>
 
-              <button className="plus" onClick={handleplus}>+</button>
-              <input type="number"  placeholder='1' value={n} onChange={(e)=>{setNum(e.target.value)}} />
               <button className="minus" onClick={handleminus}>-</button>
+              <input type="number"  placeholder='1' value={n} onChange={(e)=>{setNum(e.target.value)}} />
+              <button className="plus" onClick={handleplus}>+</button>
             </div>
           }
 
