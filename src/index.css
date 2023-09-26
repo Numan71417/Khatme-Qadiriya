@@ -1,13 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+
+:root {
+  --btn: #213555;
+  --bg: #4F709C;
+}
+
 body {
+  padding: 0;
+  box-sizing: border-box;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Amiri Quran', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.home{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.home-contain{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.btns{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 98%;
+  height: 100vh;
+  padding: 5px;
+  background-image: url("https://img.freepik.com/premium-vector/islamic-pattern-white-background_691635-5.jpg");
+}
+
+.btn-home{
+  width: 200px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+ button{
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+
+  background-color: var(--btn);
+}
+
+button:focus{
+  background-color: var(--bg);
+}
+
+.yaseen-cont{
+  padding: 5px;
+  border: 2px solid red;
+}
+
+.yaseen-cont p{
+  font-size: 1.3rem;
+
 }
