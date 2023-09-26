@@ -26,6 +26,7 @@ import P19 from './Tasbeeh/P19';
 import Qaseeda from './Pages/Qaseeda';
 import Lastpage from './Pages/Lastpage';
 import { useState } from 'react';
+import Counter from './Pages/Counter';
 
 
 function App() {
@@ -106,6 +107,7 @@ function App() {
           <Route path='/p19' element={<P19 num={num.s} />}/>
           <Route path='/qaseeda' element={<Qaseeda/>}/>
           <Route path='/last' element={<Lastpage num={num.s} />}/>
+          <Route path='/counter' element={<Counter/>}/>
           
 
       </Routes>

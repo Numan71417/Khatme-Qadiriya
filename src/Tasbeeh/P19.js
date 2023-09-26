@@ -2,11 +2,11 @@ import React, { useState } from 'react'
 import data from '../Data'
 import Header from '../components/Header'
 
-const P19 = () => {
+const P19 = ({num}) => {
     var [count, setCount] = useState(0);
 
     const handleClick = ()=>{
-        if(count===111){
+        if(count=== Math.floor(num)){
             setCount(count=0);
         }
         setCount(count+=1)
@@ -19,7 +19,7 @@ const P19 = () => {
   return (
     <div className='P19 tas'>
         <Header navr='yaseen' navl='p18' head='19' />
-        <h3>111 times</h3>
+        <h3> {Math.floor(num)} times</h3>
         <h3>اَعُوْذُ بِاللّٰہِ مِنَ الشَّیْطٰنِ الرَّجِیْمِ</h3>
         <hr />
         <h3>بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ</h3>
@@ -37,7 +37,7 @@ const P19 = () => {
 
     <div className="tasbeeh-btn" onClick={handleClick}>
         <button >
-            {count} / 111
+            {count} /  {Math.floor(num)}
         </button>
     </div>
 

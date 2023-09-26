@@ -12,7 +12,9 @@ const Home = () => {
         
         <img width='376px' src={bg} alt="" />
         <div className="btns">
-            <button className="btn-home btn-u">Introduction</button>
+          <Link to='/counter'>
+            <button className="btn-home btn-u">Tasbeeh Counter</button>
+          </Link>
 
             <Link to='/p1'>
             <button className="btn-home btn-d">Recite Khatm-e-Qadiriya</button>
